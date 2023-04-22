@@ -1,0 +1,28 @@
+Active-HDL 13.0.376.8320 2023-01-27 19:54:15
+
+Elaboration top modules:
+Verilog Module                traffic_light_TB
+
+
+-------------------------------------------------------------------------------------------
+Verilog Module          | Library | Info | Compiler Version          | Compilation Options
+-------------------------------------------------------------------------------------------
+traffic_light_TB        | project |      | 13.0.376.8320 (Windows64) | -O2 -sv2k12
+generate_test           | project |      | 13.0.376.8320 (Windows64) | -O2 -sv2k12
+traffic_light           | project |      | 13.0.376.8320 (Windows64) | -O2 -sv2k12
+analyzer                | project |      | 13.0.376.8320 (Windows64) | -O2 -sv2k12
+counter                 | project |      | 13.0.376.8320 (Windows64) | -O2 -sv2k12
+controller              | project |      | 13.0.376.8320 (Windows64) | -O2 -sv2k12
+-------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------
+Library                 | Comment
+-------------------------------------------------------------------------------------------
+project                 | None
+-------------------------------------------------------------------------------------------
+
+
+Simulation Options: asim -O5 +access +w_nets +access +r +access +r+w traffic_light_TB
+
+
+The performance of simulation is reduced. Version Student Edition

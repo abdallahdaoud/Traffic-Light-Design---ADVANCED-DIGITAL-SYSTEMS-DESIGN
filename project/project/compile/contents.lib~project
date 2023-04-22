@@ -1,0 +1,17 @@
+426
+~M 0 "" 0 $root
+~A 1 "" 0 $root
+~M 1 "../src/project.v" 82 analyzer
+~A 1 "../src/project.v" 82 analyzer
+~M 1 "../src/project.v" 7 controller
+~A 1 "../src/project.v" 7 controller
+~M 1 "../src/project.v" 24 counter
+~A 1 "../src/project.v" 24 counter
+~M 2 "" 0 generateTest
+~A 0 "" 0 generateTest
+~M 1 "../src/project.v" 59 generate_test
+~A 1 "../src/project.v" 59 generate_test
+~M 1 "../src/project.v" 1 traffic_light
+~A 1 "../src/project.v" 1 traffic_light
+~M 3 "../src/project.v" 33 traffic_light_TB
+~A 1 "../src/project.v" 33 traffic_light_TB

@@ -1,0 +1,73 @@
+timestamp=1674842054442
+
+[~A]
+C:/Users/thinkpad/OneDrive/birzeit/year4-semester-1/ENCS3310 Advanced Digital Systems Design/project/project/project/src/project.v=0*684375*686066
+LastVerilogToplevel=traffic_light_TB
+ModifyID=426
+Version=74
+
+[~MFT]
+0=11|0project.mgf|686066|390910
+1=14|1project.mgf|1743964|1735267
+3=28|3project.mgf|1534185|1524698
+
+[$root]
+A/$root=22|||1*1735267
+BinW64/$root=3*1524698
+SLP=3*1524813
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|c73a565f2ade592f8ac1c68f484c9216876118b3e82456618f1ca2f05bba9b2a
+
+[analyzer]
+A/analyzer=22|../src/project.v|82|1*1743964
+BinW64/analyzer=3*1532803
+R=../src/project.v|82
+SLP=3*1534185
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|f469682c7e7d2f91298f3b3059df192744262b98d1ce650fcb326b0e6e607b73d5c4b5b18b88e9d06c875de495218d5c
+
+[controller]
+A/controller=22|../src/project.v|7|1*1738231
+BinW64/controller=3*1526160
+R=../src/project.v|7
+SLP=3*1527932
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|37559bb714d9790ed0d2b33a2227305569fc64f104d581d1d39b9b8592bd863647837bcc1bd5865545afbfae50fe7bf3
+
+[counter]
+A/counter=22|../src/project.v|24|1*1737201
+BinW64/counter=3*1525175
+R=../src/project.v|24
+SLP=3*1525869
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|ec8a9ceecd40c97da6d5687ce01e262f26527262ddaa47cb266f3a3c4d9b973aa8df423861cc7feffbcbf39077cd6462
+
+[generateTest]
+A/generateTest=*22|../src/project.v|28|
+
+[generate_test]
+A/generate_test=22|../src/project.v|59|1*1742246
+BinW64/generate_test=3*1530675
+R=../src/project.v|59
+SLP=3*1532274
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|a414fcc1f9fbf5a52395aaa976feccb7e9b2a8870fba9b21df156b1edf44c40db12609635c0e7e2591556aad2c2522da
+
+[traffic_light]
+A/traffic_light=22|../src/project.v|1|1*1735641
+BinW64/traffic_light=3*1524881
+R=../src/project.v|1
+SLP=3*1525004
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|632dafd93e42036f24947de725b4b1cec17a4b5867b96b26125861c47f6cc795a8ed3ade75bd0fcf20cfe5dc815880f4
+
+[traffic_light_TB]
+A/traffic_light_TB=22|../src/project.v|33|1*1740027
+BinW64/traffic_light_TB=3*1528660
+R=../src/project.v|33
+SLP=3*1530050
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|632dafd93e42036f24947de725b4b1cea82cca4113d1c07e33df40c2b0e5c9e8d9ea56ee3f733faf9ba2a64c48c0c79d
+
+[~U]
+$root=12|0*682660|
+analyzer=12|0*684130|
+controller=12|0*683385|
+counter=12|0*683170|
+generateTest=12|0*723||0x10
+generate_test=12|0*683882|
+traffic_light=12|0*682890|
+traffic_light_TB=12|0*683648||0x10
